@@ -1,4 +1,4 @@
-# dictionary = a changable, unordered collection of unique key:value pairs
+# dictionary = a changeable, unordered collection of unique key:value pairs
 # fast due to using hash, allow us to access a value quickly
 
 capitals = {'Vietnam': 'Hanoi',
@@ -16,4 +16,3 @@ print(capitals.items())
 
 for key, value in capitals.items():
     print(key, value)
-
