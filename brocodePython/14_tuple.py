@@ -15,3 +15,7 @@ if "male" in student:
     print("the value is in student tuple")
 else:
     print("the value is not in the tuple")
+
+print(student[0])
+
+
